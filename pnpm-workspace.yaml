@@ -1,0 +1,4 @@
+packages:
+- "get-web-worker"
+- "web-worker-util"
+- "with-web-worker"

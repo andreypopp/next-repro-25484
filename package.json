@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "workspaces": [
+    "get-web-worker",
+    "web-worker-util",
+    "with-web-worker"
+  ]
+}
